@@ -33,7 +33,7 @@ SomaInteiros/
 ## ▶️ Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/SomaInteiros.git
+   git clone https://github.com/LeoPassos98/SomaInteiros.git
 2. Abra o projeto no Eclipse (ou outra IDE Java).
 
 3. Execute a classe Main.java.
